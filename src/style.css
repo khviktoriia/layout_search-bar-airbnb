@@ -99,3 +99,7 @@ html {
 ::-webkit-search-cancel-button {
   display: none;
 }
+
+::-webkit-search-decoration {
+  display: none;
+}
